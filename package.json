@@ -1,0 +1,15 @@
+{
+  "name": "shopping-list-electron",
+  "version": "1.0.0",
+  "description": "Shoping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mosco98/shopping-list-electron.git",
+  "author": "mosco98 <moscolyno98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.3"
+  }
+}
